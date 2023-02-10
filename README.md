@@ -181,39 +181,70 @@ máxima al altavoz de 4 Æ
 
 ![image](https://user-images.githubusercontent.com/116777044/218219113-cb39492e-c56b-4b50-8a8f-18d32bd18c95.png)
 
-*20. Encuentre la relación de vueltas apropiadas en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vuelta
+![image](https://user-images.githubusercontent.com/116777044/218221715-4d47ad0a-4274-4e77-a061-6e25dd6f50ce.png)
+
+*20. Encuentre la relación de vueltas apropiadas en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas
 
 ![image](https://user-images.githubusercontent.com/116777044/218219191-0195c7e8-640f-479f-97cb-4f9d4d771701.png)
 
+![image](https://user-images.githubusercontent.com/116777044/218221888-077d445a-8edc-4806-ac48-69b8966f0eb4.png)
+
 22. ¿Cuál es la eficiencia del transformador en el problema 21?
+
+![image](https://user-images.githubusercontent.com/116777044/218221924-f49b13d9-764a-4a58-a878-5e876e76a0f7.png)
 
 *24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de
 ca. El voltaje secundario es de 600 V.
 (a) ¿Cuál es la corriente máxima en la carga?
+
+![image](https://user-images.githubusercontent.com/116777044/218221952-00093cb3-9a27-4613-98cd-94962eae6ca0.png)
+
 (b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+
+![image](https://user-images.githubusercontent.com/116777044/218221971-0030106d-d3bf-40e7-b229-e40819bfb529.png)
+
 (c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+
+![image](https://user-images.githubusercontent.com/116777044/218221990-8e99c992-cfaf-47ab-a037-138d313db013.png)
 
 *26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
 (a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
-(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/116777044/218222024-e2a0034d-4de8-41a8-9617-58a0641c1db1.png)
+
+(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario
+
+![image](https://user-images.githubusercontent.com/116777044/218222039-773701dd-948f-4477-9fcf-ff75ef187d7e.png)
+
 (c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/116777044/218222064-58597f15-520e-40ca-94b9-8bcfdadad2ee.png)
 
 28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma
 del devanado secundario al devanado primario.
 
 ![image](https://user-images.githubusercontent.com/116777044/218219281-10a3b5c6-9f30-4c7d-a234-cf06ce764ee1.png)
 
+![image](https://user-images.githubusercontent.com/116777044/218222088-4c532bb0-d2c3-4107-a108-aeaaad3552d6.png)
 
-30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+![image](https://user-images.githubusercontent.com/116777044/218222114-80023d6b-225e-49df-aefb-b33fc3388601.png)
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se debe conectar los primarios para que funcionen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
 
 ![image](https://user-images.githubusercontent.com/116777044/218219313-9bfe582f-46b4-4fd7-a7c7-f87d200b5d38.png)
 
-32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente
-en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+![image](https://user-images.githubusercontent.com/116777044/218222174-78e36351-5feb-41be-a232-3895b8b6aa8c.png)
 
+32. Cuando se aplica 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+
+ Si el primario se corta, se extrae una corriente excesiva que potenciamente puede quemar la guente y el transfomador a menos que el primario este fusionado 
+ 
 34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Algunos, pero no todos, de los desvenados  secundarios estan cortocircuitados o el voltaje primario es inferior  esperado 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 VIDEO
 
 

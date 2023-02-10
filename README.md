@@ -251,7 +251,8 @@ VIDEO
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES
 
-Para este deber fue importante el uso de conocimientos previos del anterior parcial tanto como los nuevos adquiridos. El uso de los nuevos teoremas aprendidos y los anteriores son claramente útiles al momento de resolver circuitos ya con más complejidad.
+Para este deber fue importante el uso de conocimientos previos del anterior parcial tanto como los nuevos adquiridos. El uso de los nuevos teoremas aprendidos y los anteriores son claramente útiles al momento de resolver circuitos ya con más complejidad.En conclusión, al realizar este informe pude aprender más el uso de capacitores e inductores, ya que con ello aprendí a identificar de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo de mejor manera el uso y lectura de ondas seno. Además de ello fue importante la realización y desarrollo de los ejercicios propuestos en los capítulos para llevar a cabo y reforzar los temas tratados en clase de mejor manera.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------
 BIBLIOGRAFÍA

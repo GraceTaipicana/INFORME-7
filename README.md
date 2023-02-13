@@ -26,9 +26,33 @@ Estudiar los capacitores e inductores.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 MARCO TEÓRICO (RESUMEN)
 
+![image](https://user-images.githubusercontent.com/116777044/218592652-0546dca3-f5ef-4497-8e02-77773384369d.png)
 
+![image](https://user-images.githubusercontent.com/116777044/218592801-1b4cf8a5-bb5b-41d2-b5e7-c171c5c436f4.png)
 
-------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/116777044/218592856-a423991d-958a-482d-b397-4356483d0ddb.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218592979-342b4bbb-0ab7-4d30-9db6-d7efba62585b.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218593048-496fea3c-d389-4d5c-a4ee-58d711bba7af.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218593086-c8e79ab6-72e6-4be4-818c-7b640f8e6b3a.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218593193-27ced607-ea1b-4c2f-9fc4-66d156c46ccd.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218594691-7a0d5f07-befd-4461-9237-c45a6ed3ec7c.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218594732-0fe42287-43f9-46bb-9107-df18155ae05f.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218595080-5685bb19-9016-4bfc-b45e-790a713a1918.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218595122-ef84cc84-350f-4371-b52a-33a767f8b188.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218595172-4ef53feb-3edb-4466-8a61-8aa82d97eeff.png)
+
+![image](https://user-images.githubusercontent.com/116777044/218595540-3e72c4d9-006c-4629-af37-08fdb7a69118.png)
+
+-------------------------------------------------- -------------------------------------------------- --------------------------------------------
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPITULO 13

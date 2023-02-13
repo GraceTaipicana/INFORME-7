@@ -271,7 +271,7 @@ Algunos, pero no todos, de los desvenados  secundarios estan cortocircuitados o 
 
 VIDEO
 
-
+https://share.vidyard.com/watch/LifdFdwoetux646hajgEfm
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES
 
